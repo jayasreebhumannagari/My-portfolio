@@ -1,1 +1,2 @@
 # My-portfolio
+This portfolio website is a reflection of my skills, creativity, and dedication as a budding web developer. Designed and developed entirely by me using HTML, CSS, and JavaScript, it showcases my personal projects, technical abilities, and passion for clean, responsive web design. The site demonstrates my commitment to continuous learning, attention to detail, and user-friendly design principles. It serves not only as a resume alternative but also as a testament to my capability to independently plan, build, and maintain a professional-grade web presence. 
